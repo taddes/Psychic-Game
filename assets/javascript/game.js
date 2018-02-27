@@ -29,7 +29,7 @@
         this.sound.pause();
     }
 }
-soundAmbient = new sound("./assets/sounds/credits.mp3");
+soundAmbient = new sound("./assets/sounds/Credits.mp3");
     soundAmbient.play();
     //Delare array of computer guesses 
     psyOptions = [ "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "X", "y", "z"];
